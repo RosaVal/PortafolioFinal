@@ -23,7 +23,7 @@ body {
 }
 
 header {
-    background-image: url('../img/bg_hero.png');
+    background-image: url('../img/Captura\ de\ Pantalla\ 2020-10-12\ a\ la\(s\)\ 21.41.20.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 737px;
@@ -34,9 +34,36 @@ header {
 .text1 {
     font-family: 'Oswald', sans-serif;
     font-size: 72px;
+    
 }
 
 .text2 {
     font-family: 'Oswald', sans-serif;
     font-size: 72px;
+    text-decoration: overline;
+}
+
+.parra {
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    color: #373A3C;
+    line-height: 50px;
+}
+
+.colum {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    color: #373A3C;
+}
+
+.deta {
+    font-family: 'Oswald', sans-serif;
+    font-size: 52px;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.trabajos {
+    background-color: #660066;
 }
