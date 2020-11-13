@@ -34,6 +34,7 @@ header {
 .text1 {
     font-family: 'Oswald', sans-serif;
     font-size: 72px;
+    font-weight: 200;
     
 }
 
@@ -47,7 +48,7 @@ header {
     font-size: 25px;
     font-family: 'Open Sans', sans-serif;
     color: #373A3C;
-    line-height: 50px;
+    font-weight: 600;
 }
 
 .colum {
@@ -55,6 +56,7 @@ header {
     font-size: 16px;
     line-height: 40px;
     color: #373A3C;
+    font-size: 16px;
 }
 
 .deta {
@@ -64,6 +66,42 @@ header {
     text-decoration: underline;
 }
 
+.empresa {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.amo {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+}
+
 .trabajos {
     background-color: #660066;
+}
+
+.magda {
+    font-family: 'Oswald', sans-serif;;
+    font-size: 40px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.last {
+    text-decoration: underline;
+    font-family: 'Oswald', sans-serif;
+    font-size: 52px;
+}
+
+.card-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 23px;
+}
+
+.card-text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
 }
