@@ -16,7 +16,7 @@ body {
 }
 
 .navbar-nav {
-    color: #FFFFFF;
+    color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     text-align: left;
@@ -35,13 +35,14 @@ header {
     font-family: 'Oswald', sans-serif;
     font-size: 72px;
     font-weight: 200;
-    
+    color: #ffffff;
 }
 
 .text2 {
     font-family: 'Oswald', sans-serif;
     font-size: 72px;
     text-decoration: overline;
+    color: #ffffff;
 }
 
 .parra {
@@ -64,18 +65,21 @@ header {
     font-size: 52px;
     text-align: left;
     text-decoration: underline;
+    color: #373A3C;
 }
 
 .empresa {
     font-family: 'Oswald', sans-serif;
     font-weight: 600;
     font-size: 25px;
+    color: #373A3C;
 }
 
 .amo {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 25px;
+    color: #373A3C;
 }
 
 .trabajos {
@@ -86,22 +90,25 @@ header {
     font-family: 'Oswald', sans-serif;;
     font-size: 40px;
     text-align: left;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 .last {
     text-decoration: underline;
     font-family: 'Oswald', sans-serif;
     font-size: 52px;
+    color: #ffffff;
 }
 
 .card-title {
     font-family: 'Oswald', sans-serif;
     font-size: 23px;
+    color: #373A3C;
 }
 
 .card-text {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-weight: 300;
+    color: #373A3C;
 }
