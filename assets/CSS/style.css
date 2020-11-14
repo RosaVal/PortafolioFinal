@@ -1,3 +1,6 @@
+@media only screen and (max-width: 767px) {
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     font-family: 'Oswald', sans-serif;
@@ -16,19 +19,19 @@ body {
 }
 
 .navbar-nav {
-    color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     text-align: left;
+    color: #ffffff;
 }
 
 header {
     background-image: url('../img/Captura\ de\ Pantalla\ 2020-10-12\ a\ la\(s\)\ 21.41.20.png');
-    background-repeat: no-repeat;
     background-size: cover;
-    height: 737px;
+    height: 100%;
     width: 100%;
     padding-top: 500px;
+    text-align: center;
 }
 
 .text1 {
@@ -43,6 +46,30 @@ header {
     font-size: 72px;
     text-decoration: overline;
     color: #ffffff;
+}
+
+.hr1 {
+    height: 2px; 
+    width: 120px;
+    color: #373A3C; 
+    background-color: #373A3C; 
+    border: none;
+}
+
+.hr2 {
+    height: 2px; 
+    width: 120px;
+    color: #373A3C; 
+    background-color: #373A3C; 
+    border: none;
+}
+
+.hr3 {
+    height: 2px; 
+    width: 120px;
+    color: #ffffff;
+    background-color: #ffffff; 
+    border: none;
 }
 
 .parra {
@@ -63,8 +90,7 @@ header {
 .deta {
     font-family: 'Oswald', sans-serif;
     font-size: 52px;
-    text-align: left;
-    text-decoration: underline;
+    text-align: center;
     color: #373A3C;
 }
 
@@ -94,11 +120,11 @@ header {
 }
 
 .last {
-    text-decoration: underline;
     font-family: 'Oswald', sans-serif;
     font-size: 52px;
     color: #ffffff;
 }
+
 
 .card-title {
     font-family: 'Oswald', sans-serif;
